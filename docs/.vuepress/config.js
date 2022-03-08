@@ -31,7 +31,7 @@ const buildToolConfig = {
 }
 // 通用配置项
 const commonConfig = {
-	dest: path.resolve(__dirname,  "/dist/"),
+	dest: "./dist",
 	// dest: `${sourceDir}/dist`,
 	// temp: "",
 	// public: `${sourceDir}/public`,
