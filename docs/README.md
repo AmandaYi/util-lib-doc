@@ -2,7 +2,7 @@
 home: true
 title: 首页
 lang: zh-CN
-heroImage: /images/hero.png
+
 
 features:
   - title: 高性能
