@@ -3,7 +3,7 @@ const sidebar = require("./config/sidebar")
 const path = require("path")
 // 站点配置
 const siteConfig = {
-	base: "/util-lib-doc/",
+	base: "/moby-mall/util-lib-doc/",
 	lang: 'zh-CN',
 	title: '前端工具和组件',
 	description: '这是一个切合公司内部常见需求的前端工具函数和组件库！',
@@ -31,8 +31,8 @@ const buildToolConfig = {
 }
 // 通用配置项
 const commonConfig = {
-	dest: "./dist",
-	// dest: `${sourceDir}/dist`,
+	dest: "./util-lib-doc",
+	// dest: `${sourceDir}/util-lib-doc`,
 	// temp: "",
 	// public: `${sourceDir}/public`,
 }
