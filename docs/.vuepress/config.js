@@ -31,7 +31,7 @@ const buildToolConfig = {
 }
 // 通用配置项
 const commonConfig = {
-	dest: "./util-lib-doc",
+	dest: "./dist",
 	// dest: `${sourceDir}/util-lib-doc`,
 	// temp: "",
 	// public: `${sourceDir}/public`,
