@@ -23,5 +23,9 @@ const navbar = [
 		text: "组件手册",
 		link: "/components/home.md"
 	},
+	{
+		text: "正则验证",
+		link: "/util/validateUtil.md"
+	},
 ]
 module.exports = navbar
