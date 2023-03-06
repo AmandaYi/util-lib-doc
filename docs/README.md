@@ -17,7 +17,7 @@ features:
     details: 工具函数种类多样，涉及接口处理工具，日期工具，结构化处理，项目UI组件配置工具，金额计算工具等。
   - title: 组件简化
     details: 内部组件完善，涉及门店端常用列表，多选筛选，页面恢复，日期联动等。
-footer: MIT Licensed | Copyright © 2022-present 赵哲云#小波科技
+footer: MIT Licensed | Copyright © 2023-present 赵哲云
 ---
 
 ### 像数 1, 2, 3 一样容易
