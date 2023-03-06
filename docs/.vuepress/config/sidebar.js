@@ -5,6 +5,9 @@ const sidebar = {
 		"/util/dateUtil.md",
 		"/util/envUtil.md",
 		"/util/storage.md"
+	],
+	"/java/" :[
+		"/java/MyBatis.md"
 	]
 }
 module.exports = sidebar

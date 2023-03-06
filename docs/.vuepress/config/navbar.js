@@ -26,6 +26,6 @@ const navbar = [
 	{
 		text: "正则验证",
 		link: "/util/validateUtil.md"
-	},
+	}
 ]
 module.exports = navbar

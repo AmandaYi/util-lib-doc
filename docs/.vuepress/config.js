@@ -3,10 +3,10 @@ const sidebar = require("./config/sidebar")
 const path = require("path")
 // 站点配置
 const siteConfig = {
-	base: "/moby-mall/util-lib-doc/",
+	base: "/util-lib-doc/",
 	lang: 'zh-CN',
 	title: '前端工具和组件',
-	description: '这是一个切合公司内部常见需求的前端工具函数和组件库！',
+	description: '前端工具函数和组件库！',
 	head: [
 		['link', {rel: 'icon', href: "https://github.githubassets.com/favicons/favicon.png"}]
 	],
@@ -34,7 +34,7 @@ const themeConfig = {
 
 
 		// 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-		repo: 'https://gitlab.blchina.com/xbofrontend/util-lib-doc',
+		repo: '',
 		// 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
 		// "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
 		repoLabel: '查看源码',
